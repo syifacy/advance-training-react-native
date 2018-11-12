@@ -118,14 +118,14 @@ If you have any questions, [let me know][issue].
 The community and tools move fast. Here's a list of changes since I first gave
 this workshop:
 
-## Contributors
+<!-- ## Contributors -->
 
-Thanks goes to these wonderful people and thanks for [Kent C Dodds](https://twitter.com/kentcdodds) for his open source, and this Readme template is coming from his training repo.
+<!-- Thanks goes to these wonderful people and thanks for [Kent C Dodds](https://twitter.com/kentcdodds) for his open source, and this Readme template is coming from his training repo. -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-| [<img src="https://avatars0.githubusercontent.com/u/7804066?s=460&v=4" width="100px;"/><br /><sub>Juang Wiantoro</sub>](https://github.com/broerjuang)<br /> | [<img src="https://avatars2.githubusercontent.com/u/15160023?s=400&v=4" width="100px;"/><br /><sub>Ronaldo Vitto Lewerissa</sub>](https://github.com/rvlewerissa)<br /> | [<img src="https://avatars0.githubusercontent.com/u/25166631?s=460&v=4" width="100px;"/><br /><sub>Dominggus Octovianus</sub>](https://github.com/greensirius)<br /> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<!-- | [<img src="https://avatars0.githubusercontent.com/u/7804066?s=460&v=4" width="100px;"/><br /><sub>Juang Wiantoro</sub>](https://github.com/broerjuang)<br /> | [<img src="https://avatars2.githubusercontent.com/u/15160023?s=400&v=4" width="100px;"/><br /><sub>Ronaldo Vitto Lewerissa</sub>](https://github.com/rvlewerissa)<br /> | [<img src="https://avatars0.githubusercontent.com/u/25166631?s=460&v=4" width="100px;"/><br /><sub>Dominggus Octovianus</sub>](https://github.com/greensirius)<br /> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -->
 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
